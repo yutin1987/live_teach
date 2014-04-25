@@ -59,6 +59,8 @@ Strings > Broadcast > Default channel
 
 - 點選Broadcast 開始直播
 
+> 當Facebook按鈕亮起藍色時, 按下Broadcast按鈕, 會自動將link發佈至你的Facebook動態牆.
+
 ## 分享直播網址
 
 - 請朋友到你的Facebook複製直播網址
