@@ -13,9 +13,7 @@ WiMAX可申辦試用7日 (北部建議申請全球一動, 南部建議申請Vee)
 
 > 附近住戶借有線網路拉網路線, 最遠可以拉500公尺（Ethernet over Coax Adaptor）
 
-> Ethernet over Coax Adaptor 是將常見的網路線轉成耐用的電視用同軸電纜,
-
-[參考](http://www.pcstore.com.tw/ongood/M15005036.htm)
+> Ethernet over Coax Adaptor 是將常見的網路線轉成耐用的電視用同軸電纜, [參考](http://www.pcstore.com.tw/ongood/M15005036.htm)
 
 ## 註冊/登入 Ustream 帳號
 
@@ -53,7 +51,7 @@ Strings > Broadcast > Default channel
 
 ## Go Live!直播
 
-!(http://i.imgur.com/ZsLAtGP.jpg)
+![Live](http://i.imgur.com/ZsLAtGP.jpg)
 
 左選單 > Go Live!
 
