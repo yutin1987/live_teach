@@ -1,6 +1,10 @@
 iPad直播教學（Ustream）
 ===
 
+![聲援香港](http://i.imgur.com/xQ6cgwo.png)
+
+- 直播完畢記得按存檔[SAVE]
+
 ## 安裝 Ustream App
 
 https://itunes.apple.com/us/app/ustream/id301520250
