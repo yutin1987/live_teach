@@ -69,12 +69,10 @@ Strings > Broadcast > Default channel
 
 - 請朋友到你的Facebook複製直播網址
 
-- 分享至ptt, g0v, yuting1987@gmail.com
-
 ## #使用祕技
 
 - 推薦使用10000mah以上大容量的行動電源, 且需要2A電量輸出.
 
-- 請注意Ustream檔案備份有容量10G限制, 請定期備份影片, 或請g0v協助備份.
+- 請注意Ustream檔案備份有容量10G限制, 請定期備份影片, 直播完要按存檔.
 
 - iPad 直播支架鎖相機腳架, 光華有賣一個不到NT$500元.
